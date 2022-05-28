@@ -5,7 +5,7 @@
   margin: 0 auto;
   max-width: 1184px;
   align-items: baseline;
-  margin-top: 92px;
+  padding-top: 92px;
   margin-bottom: 24px;
 }
 
@@ -23,15 +23,15 @@
 
 @media screen and (max-width: 768px) {
   .footer {
-    margin-top: 88px;
     width: 93.75%;
+    padding-top: 88px;
   }
 }
 
 @media screen and (min-width: 321px) and (max-width: 767px) {
   .footer {
     flex-direction: column;
-    margin-top: 64px;
+    padding-top: 64px;
     width: 90%;
     margin-bottom: 0;
   }
@@ -40,7 +40,7 @@
 @media screen and (max-width: 320px) {
   .footer {
     flex-direction: column;
-    margin-top: 64px;
+    padding-top: 64px;
     width: 90%;
     margin-bottom: 0;
   }

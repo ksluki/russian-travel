@@ -8,6 +8,7 @@
   text-decoration: none;
   background-size: cover;
   color: #fff;
+  background-position: center;
 }
 
 .cover__background:after {
