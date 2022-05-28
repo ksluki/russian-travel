@@ -1,0 +1,7 @@
+.header__lang {
+  display: flex;
+  margin: auto 0;
+  padding: 0;
+  line-height: 28px;
+  align-self: flex-end;
+}
